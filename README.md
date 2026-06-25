@@ -18,13 +18,13 @@ A C++ project that simulates city bus movement and route planning.
 - Traffic simulation
 
 ##Prerequisites
-Before you begin, ensure you have the following prerequisites:
+- Before you begin, ensure you have the following prerequisites:
 
-C++ compiler 
-IDE (Integrated Development Environment) for compiling and running the code
+- C++ compiler 
+- IDE (Integrated Development Environment) for compiling and running the code
 
 ##Installation
-Clone the repository to your local machine using:
-git clone https://github.com/your-username/library-management-system.git
-Open the project in your chosen IDE.
-Compile and run the project using the appropriate build and execution options in your IDE
+- Clone the repository to your local machine using:
+- git clone https://github.com/your-username/library-management-system.git
+- Open the project in your chosen IDE.
+- Compile and run the project using the appropriate build and execution options in your IDE
